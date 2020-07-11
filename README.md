@@ -1,16 +1,22 @@
-### Hi there 👋
+# System.out.println("Vinicius Ivan Colutti");
 
-<!--
-**vinicius-colutti/vinicius-colutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Vinicius, 20 anos. 
+Começei minha carreira na tecnologia com 16 anos, quando ingressei no curso Técnico em Informática (SENAI), desde então, sempre amei trabalhar com códigos e estou sempre me aprimorando e adiquirindo novas skills.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BackEnd: APIs REST/Hateoas, SOAP, Java, SpringBoot, JPA/Hibernate, NodeJS, PHP
+- FrontEnd: ReactJS, ReactNative, Ionic, HTML5, CSS3
+- Infra&Cloud: AWS, Linux
+- Performance Testing: JMeter, Thread Dumps, Grafana, Perfmon, SAR
+- URA: Avaya
+
+## Redes Sociais
+
+- Linkedin: https://www.linkedin.com/in/vinicius-c-1a3135122/
+- Instagram: https://www.instagram.com/viniciuscolutti/
+
+## Contato
+
+- vinciiuscolutti@hotmail.com
+- (11)953534927
