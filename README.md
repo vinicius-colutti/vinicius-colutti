@@ -3,6 +3,11 @@
 Sou Vinicius, 20 anos. 
 Começei minha carreira na tecnologia com 16 anos, quando ingressei no curso Técnico em Informática (SENAI), desde então, sempre amei trabalhar com códigos e estou sempre aprimorando e adiquirindo novas skills.
 
+<hr>
+<dl align="center">
+  <img align="" height="190px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinicius-colutti&show_icons=true&hide_border=true&theme=dark" />
+</dl>
+
 ## Skills
 
 - BackEnd: APIs REST/Hateoas, SOAP, Java, SpringBoot, JPA/Hibernate, NodeJS, PHP
