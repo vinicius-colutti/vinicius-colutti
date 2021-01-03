@@ -1,7 +1,9 @@
 # System.out.println("Vinicius Ivan Colutti");
 
 Sou Vinicius, 20 anos. 
-Começei minha carreira na tecnologia com 16 anos, quando ingressei no curso Técnico em Informática (SENAI), desde então, sempre amei trabalhar com códigos e estou sempre aprimorando e adiquirindo novas skills.
+Comecei minha carreira na tecnologia com 16 anos, quando ingressei no curso Técnico em
+Informática (SENAI). Desde então, tenho paixão em trabalhar com códigos, tecnologias e novos
+desafios, sempre aprimorando e adiquirindo novas skills.
 
 <hr>
 <dl align="center">
