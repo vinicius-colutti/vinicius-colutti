@@ -6,9 +6,14 @@ Informática (SENAI). Desde então, tenho paixão em trabalhar com códigos, tec
 desafios, sempre aprimorando e adiquirindo novas skills.
 
 <hr>
-<dl align="center">
-  <img align="" height="190px" alt="GuScarpim" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinicius-colutti&show_icons=true&hide_border=true&theme=dark" />
-</dl>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-colutti&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vinicius-colutti&theme=buefy&count_private=true"/></td>
+    </tr>   
+</table>
+</center>
 
 ## Skills
 
