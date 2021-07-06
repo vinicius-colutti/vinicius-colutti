@@ -1,8 +1,8 @@
-# System.out.println("Vinicius Ivan Colutti");
+# Hi, Olá, Hola, Ciao! 😄;
 
-Sou Vinicius, 20 anos. 
-Comecei minha carreira na tecnologia com 16 anos, quando ingressei no curso Técnico em
-Informática (SENAI). Desde então, tenho paixão em trabalhar com códigos, tecnologias e novos
+Sou Vinicius, 21 anos. 
+Comecei minha carreira na tecnologia com 16 anos.
+Desde então, tenho paixão em trabalhar com códigos, tecnologias e novos
 desafios, sempre aprimorando e adiquirindo novas skills.
 
 <hr>
@@ -17,9 +17,9 @@ desafios, sempre aprimorando e adiquirindo novas skills.
 
 ## Skills
 
-- BackEnd: APIs REST/Hateoas, SOAP, Java, SpringBoot, JPA/Hibernate, NodeJS, PHP
-- FrontEnd: ReactJS, ReactNative, Ionic, HTML5, CSS3
-- Infra&Cloud: AWS, Linux
+- BackEnd: APIs REST/Hateoas, Java, Kotlin, SpringBoot, SOAP, JPA/Hibernate, NodeJS, PHP
+- FrontEnd: Angular, ReactJS, ReactNative, Ionic
+- Infra&Cloud: AWS (CodeBuild, CodePipeline, DynamoDB, Lambda, RDS, CloudFormation, ECS, EC2, S3 etc)
 - Performance Testing: JMeter, Thread Dumps, Grafana, Perfmon, SAR
 - URA: Avaya
 
