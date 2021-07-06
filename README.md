@@ -1,4 +1,4 @@
-# Hi, Olá, Hola, Ciao! 😄;
+# Hi, Olá, Hola, Ciao! 😄
 
 Sou Vinicius, 21 anos. 
 Comecei minha carreira na tecnologia com 16 anos.
